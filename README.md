@@ -18,7 +18,9 @@
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mssql,oracle,mongodb&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="45" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="45" />
 </p>
 ---
 
